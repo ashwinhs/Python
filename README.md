@@ -8,5 +8,5 @@ Python Learning
 
 ***Solution 3:*** Same as 2. But uses Enums, Class methods and "yield". Good to understand Python!
 
-**2. Logic Gates ** 
+**2. Logic Gates** 
 This is an exmaple from Interactive python which is particularly interesting since it helps us comprehend "OOP" Object oriented Python.
