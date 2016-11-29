@@ -9,3 +9,12 @@
 ## Example 2: **Logic Gates**
 (File : LogicGates.py) <br />
 This is an example from Interactive python which is particularly interesting since it helps us comprehend "OOP" Object oriented Python.
+<br />
+## Example 3: **Test Performance, Creating lists**
+(File: ListPerformance.py) <br />
+This script tests creating lists using 4 different ways - <br />
+* Concatenate (Concatenate one list with another)
+* Appending (using append function)
+* List comprehension
+* Using Range and List functions
+<br />We finally time each of the function using timeit module's Timer function. This runs each of the function 1000times before returning the average time taken.
