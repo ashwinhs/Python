@@ -23,7 +23,7 @@ We finally time each of the function using timeit module's Timer function. This 
 
 ## Example 4: DS: Implementing Stacks in Python
 (File: Stack.py)<br />
-This shows how to implement stacks in Python using Lists.
+This shows how to implement stacks in Python using Lists.<br />
 (File: StackExamples.py)<br />
 How to use some stacks to solve problems! This covers the following :<br />
 1. Reverse a String using a Stack
@@ -31,3 +31,6 @@ How to use some stacks to solve problems! This covers the following :<br />
 3. Check if the brackets (includes ( or [ or {), are balanced
 4. Convert a Decimal number to Binary
 5. Convert a Decimal number to Any other base number
+<br />
+(File: StackExamples-Convert2PostFix.py)<br />
+Example on how to convert Infix operations to Postfix format.
