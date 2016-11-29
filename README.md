@@ -17,4 +17,17 @@ This script tests creating lists using 4 different ways - <br />
 * Appending (using append function)
 * List comprehension
 * Using Range and List functions
-<br />We finally time each of the function using timeit module's Timer function. This runs each of the function 1000times before returning the average time taken.
+<br />
+We finally time each of the function using timeit module's Timer function. This runs each of the function 1000times before returning the average time taken.
+<br />
+
+## Example 4: DS: Implementing Stacks in Python
+(File: Stack.py)<br />
+This shows how to implement stacks in Python using Lists.
+(File: StackExamples.py)<br />
+How to use some stacks to solve problems! This covers the following :<br />
+1. Reverse a String using a Stack
+2. Check if the parantheses are balanced
+3. Check if the brackets (includes ( or [ or {), are balanced
+4. Convert a Decimal number to Binary
+5. Convert a Decimal number to Any other base number
