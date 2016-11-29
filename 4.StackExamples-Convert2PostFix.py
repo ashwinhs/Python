@@ -37,3 +37,9 @@ def convertToPostFix(string):
 			finalString += s.pop()
 	while not s.isEmpty():
 		finalString += s.pop()
+		
+print(convertToPostFix('A * B + C * D'))
+print(convertToPostFix("( A + B ) * C - ( D - E ) * ( F + G )")) #A B + C * D E - F G + * -
+print(convertToPostFix("( A + B ) * ( C + D )")) #'A B + C D + *'
+print(convertToPostFix("( A + B ) * C")) #'A B + C *'
+print(convertToPostFix("A + B * C")) #'A B C * +'
