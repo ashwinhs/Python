@@ -26,11 +26,11 @@ We finally time each of the function using timeit module's Timer function. This 
 This shows how to implement stacks in Python using Lists.<br />
 (File: StackExamples.py)<br />
 How to use some stacks to solve problems! This covers the following :<br />
-1. Reverse a String using a Stack
-2. Check if the parantheses are balanced
-3. Check if the brackets (includes ( or [ or {), are balanced
-4. Convert a Decimal number to Binary
-5. Convert a Decimal number to Any other base number
+* Reverse a String using a Stack
+* Check if the parantheses are balanced
+* Check if the brackets (includes ( or [ or {), are balanced
+* Convert a Decimal number to Binary
+* Convert a Decimal number to Any other base number
 <br />
 (File: StackExamples-Convert2PostFix.py)<br />
 Example on how to convert Infix operations to Postfix format.
